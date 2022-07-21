@@ -1,0 +1,29 @@
+<table class="table booktable">
+    <tr>
+        <td style="width: 30%;"><h3>Detalles de {{book.title}}</h3></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Titulo</td>
+        <td>{{book.title}}</td>
+    </tr>
+    <tr>
+        <td>Descripcion</td>
+        <td>{{book.description}}</td>
+    </tr>
+    <tr>
+        <td>Total de Paginas</td>
+        <td>{{book.pageCount}}</td>
+    </tr>
+    <tr>
+        <td>Extracto</td>
+        <td>{{book.excerpt}}</td>
+    </tr>
+    <tr>
+        <td>Fecha de Publicación</td>
+        <td>{{book.publishDate | date:'medium'}}</td>
+    </tr>
+</table>
+<div>
+    <a class="btn btn-primary" ui-sref="editBook({id:book.id})">Edit</a>
+</div>

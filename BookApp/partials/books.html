@@ -1,0 +1,21 @@
+<a ui-sref="newBook" class="btn-primary btn-lg nodecoration">Add Book</a>
+<p><h3>Todos los Libros</h3></p>
+<table class="table mg-b-0 table-bordered table-hover table-sm"
+ng-class="loading()">
+    <thead>
+        <tr style="vertical-align: top">
+            <th>Titulo</th>
+            <th>Descripcion</th>
+            
+            <th></th>
+        </tr>
+    </thead>
+    <tr ng-repeat="book in books">
+        <td class="text-center">{{book.title}}</td>
+        <td>{{book.description}}</td>
+        <td class="text-center">
+            <a class="btn btn-primary" ui-sref="viewBook({id:book.id})">View</a>
+            <a class="btn btn-danger"  ng-click="deleteBook(book.id)">Delete</a>
+        </td>
+    </tr>
+</table>

@@ -1,0 +1,15 @@
+C:\Software\ApiGeneric\ApiGeneric.Models\bin\Debug\net5.0\ApiGeneric.Models.deps.json
+C:\Software\ApiGeneric\ApiGeneric.Models\bin\Debug\net5.0\ApiGeneric.Models.dll
+C:\Software\ApiGeneric\ApiGeneric.Models\bin\Debug\net5.0\ref\ApiGeneric.Models.dll
+C:\Software\ApiGeneric\ApiGeneric.Models\bin\Debug\net5.0\ApiGeneric.Models.pdb
+C:\Software\ApiGeneric\ApiGeneric.Models\obj\Debug\net5.0\ApiGeneric.Models.csproj.AssemblyReference.cache
+C:\Software\ApiGeneric\ApiGeneric.Models\obj\Debug\net5.0\ApiGeneric.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software\ApiGeneric\ApiGeneric.Models\obj\Debug\net5.0\ApiGeneric.Models.AssemblyInfoInputs.cache
+C:\Software\ApiGeneric\ApiGeneric.Models\obj\Debug\net5.0\ApiGeneric.Models.AssemblyInfo.cs
+C:\Software\ApiGeneric\ApiGeneric.Models\obj\Debug\net5.0\ApiGeneric.Models.csproj.CoreCompileInputs.cache
+C:\Software\ApiGeneric\ApiGeneric.Models\obj\Debug\net5.0\ApiGeneric.Models.dll
+C:\Software\ApiGeneric\ApiGeneric.Models\obj\Debug\net5.0\ref\ApiGeneric.Models.dll
+C:\Software\ApiGeneric\ApiGeneric.Models\obj\Debug\net5.0\ApiGeneric.Models.pdb
+C:\Software\ApiGeneric\ApiGeneric.Models\bin\Debug\net5.0\ApiGeneric.Models.runtimeconfig.json
+C:\Software\ApiGeneric\ApiGeneric.Models\bin\Debug\net5.0\ApiGeneric.Models.runtimeconfig.dev.json
+C:\Software\ApiGeneric\ApiGeneric.Models\obj\Debug\net5.0\ApiGeneric.Models.genruntimeconfig.cache

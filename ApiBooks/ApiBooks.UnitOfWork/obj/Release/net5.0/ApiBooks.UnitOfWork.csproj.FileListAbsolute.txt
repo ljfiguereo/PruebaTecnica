@@ -1,0 +1,17 @@
+C:\Software\Prueba\ApiBooks\ApiBooks.UnitOfWork\bin\Release\net5.0\ApiBooks.UnitOfWork.deps.json
+C:\Software\Prueba\ApiBooks\ApiBooks.UnitOfWork\bin\Release\net5.0\ApiBooks.UnitOfWork.dll
+C:\Software\Prueba\ApiBooks\ApiBooks.UnitOfWork\bin\Release\net5.0\ref\ApiBooks.UnitOfWork.dll
+C:\Software\Prueba\ApiBooks\ApiBooks.UnitOfWork\bin\Release\net5.0\ApiBooks.UnitOfWork.pdb
+C:\Software\Prueba\ApiBooks\ApiBooks.UnitOfWork\bin\Release\net5.0\ApiBooks.Models.dll
+C:\Software\Prueba\ApiBooks\ApiBooks.UnitOfWork\bin\Release\net5.0\ApiBooks.Repositories.dll
+C:\Software\Prueba\ApiBooks\ApiBooks.UnitOfWork\bin\Release\net5.0\ApiBooks.Repositories.pdb
+C:\Software\Prueba\ApiBooks\ApiBooks.UnitOfWork\bin\Release\net5.0\ApiBooks.Models.pdb
+C:\Software\Prueba\ApiBooks\ApiBooks.UnitOfWork\obj\Release\net5.0\ApiBooks.UnitOfWork.csproj.AssemblyReference.cache
+C:\Software\Prueba\ApiBooks\ApiBooks.UnitOfWork\obj\Release\net5.0\ApiBooks.UnitOfWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software\Prueba\ApiBooks\ApiBooks.UnitOfWork\obj\Release\net5.0\ApiBooks.UnitOfWork.AssemblyInfoInputs.cache
+C:\Software\Prueba\ApiBooks\ApiBooks.UnitOfWork\obj\Release\net5.0\ApiBooks.UnitOfWork.AssemblyInfo.cs
+C:\Software\Prueba\ApiBooks\ApiBooks.UnitOfWork\obj\Release\net5.0\ApiBooks.UnitOfWork.csproj.CoreCompileInputs.cache
+C:\Software\Prueba\ApiBooks\ApiBooks.UnitOfWork\obj\Release\net5.0\ApiBooks.UnitOfWork.csproj.CopyComplete
+C:\Software\Prueba\ApiBooks\ApiBooks.UnitOfWork\obj\Release\net5.0\ApiBooks.UnitOfWork.dll
+C:\Software\Prueba\ApiBooks\ApiBooks.UnitOfWork\obj\Release\net5.0\ref\ApiBooks.UnitOfWork.dll
+C:\Software\Prueba\ApiBooks\ApiBooks.UnitOfWork\obj\Release\net5.0\ApiBooks.UnitOfWork.pdb

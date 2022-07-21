@@ -1,0 +1,265 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Software\\ApiGeneric\\ApiGeneric.DataAccess\\ApiGeneric.DataAccess.csproj": {}
+  },
+  "projects": {
+    "C:\\Software\\ApiGeneric\\ApiGeneric.DataAccess\\ApiGeneric.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Software\\ApiGeneric\\ApiGeneric.DataAccess\\ApiGeneric.DataAccess.csproj",
+        "projectName": "ApiGeneric.DataAccess",
+        "projectPath": "C:\\Software\\ApiGeneric\\ApiGeneric.DataAccess\\ApiGeneric.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Desarrollo2\\.nuget\\packages\\",
+        "outputPath": "C:\\Software\\ApiGeneric\\ApiGeneric.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Desarrollo2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Software\\ApiGeneric\\ApiGeneric.repositories\\ApiGeneric.Repositories.csproj": {
+                "projectPath": "C:\\Software\\ApiGeneric\\ApiGeneric.repositories\\ApiGeneric.Repositories.csproj"
+              },
+              "C:\\Software\\ApiGeneric\\ApiGeneric.UnitOfWork\\ApiGeneric.UnitOfWork.csproj": {
+                "projectPath": "C:\\Software\\ApiGeneric\\ApiGeneric.UnitOfWork\\ApiGeneric.UnitOfWork.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Software\\ApiGeneric\\ApiGeneric.Models\\ApiGeneric.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Software\\ApiGeneric\\ApiGeneric.Models\\ApiGeneric.Models.csproj",
+        "projectName": "ApiGeneric.Models",
+        "projectPath": "C:\\Software\\ApiGeneric\\ApiGeneric.Models\\ApiGeneric.Models.csproj",
+        "packagesPath": "C:\\Users\\Desarrollo2\\.nuget\\packages\\",
+        "outputPath": "C:\\Software\\ApiGeneric\\ApiGeneric.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Desarrollo2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Software\\ApiGeneric\\ApiGeneric.repositories\\ApiGeneric.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Software\\ApiGeneric\\ApiGeneric.repositories\\ApiGeneric.Repositories.csproj",
+        "projectName": "ApiGeneric.Repositories",
+        "projectPath": "C:\\Software\\ApiGeneric\\ApiGeneric.repositories\\ApiGeneric.Repositories.csproj",
+        "packagesPath": "C:\\Users\\Desarrollo2\\.nuget\\packages\\",
+        "outputPath": "C:\\Software\\ApiGeneric\\ApiGeneric.repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Desarrollo2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Software\\ApiGeneric\\ApiGeneric.Models\\ApiGeneric.Models.csproj": {
+                "projectPath": "C:\\Software\\ApiGeneric\\ApiGeneric.Models\\ApiGeneric.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Software\\ApiGeneric\\ApiGeneric.UnitOfWork\\ApiGeneric.UnitOfWork.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Software\\ApiGeneric\\ApiGeneric.UnitOfWork\\ApiGeneric.UnitOfWork.csproj",
+        "projectName": "ApiGeneric.UnitOfWork",
+        "projectPath": "C:\\Software\\ApiGeneric\\ApiGeneric.UnitOfWork\\ApiGeneric.UnitOfWork.csproj",
+        "packagesPath": "C:\\Users\\Desarrollo2\\.nuget\\packages\\",
+        "outputPath": "C:\\Software\\ApiGeneric\\ApiGeneric.UnitOfWork\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Desarrollo2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Software\\ApiGeneric\\ApiGeneric.repositories\\ApiGeneric.Repositories.csproj": {
+                "projectPath": "C:\\Software\\ApiGeneric\\ApiGeneric.repositories\\ApiGeneric.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

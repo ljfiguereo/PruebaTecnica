@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>ApiBooks.Repositories</AssemblyName>
+    <RootNamespace>ApiBooks.Repositories</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ApiBooks.Models\ApiBooks.Models.csproj" />
+  </ItemGroup>
+
+</Project>
